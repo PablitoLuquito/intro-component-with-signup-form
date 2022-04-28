@@ -66,6 +66,7 @@ section p {
   box-shadow: 0 10px 0 hsla(248, 32%, 39%, 0.295);
   color: hsl(246, 25%, 77%);
   font-weight: 500;
+  font-size: 2rem;
 }
 
 .call-to-act span {
